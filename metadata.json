@@ -1,0 +1,6 @@
+{
+  "name": "Party Historian",
+  "description": "A multi-participant campaign voice companion that transcribes sessions, tracks multiple speakers, automatically summarizes history, extracts NPCs/locations, and serves as an AI player assistant.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
